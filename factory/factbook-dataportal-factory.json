@@ -1,0 +1,9 @@
+{
+	"name": "factbook-dataportal-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3cf6cf1-2f8f-48f9-9430-283b0626e272",
+		"tenantId": "3b4cea55-3e5f-449a-b6e2-fbea0ce25673"
+	}
+}
